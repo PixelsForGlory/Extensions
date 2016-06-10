@@ -1,7 +1,7 @@
 ﻿// Copyright 2016 afuzzyllama. All Rights Reserved.
 using System;
 
-namespace Extensions
+namespace PixelsForGlory.Extensions
 {
     public static class FloatExtensions
     {

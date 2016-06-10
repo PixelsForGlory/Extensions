@@ -1,5 +1,5 @@
 ﻿// Copyright 2016 afuzzyllama. All Rights Reserved.
-using Extensions;
+using PixelsForGlory.Extensions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace ExtensionsTest
