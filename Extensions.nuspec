@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>PixelsForGlory.Extensions</id>
+    <version>0.0.0</version>
+    <authors>afuzzyllama</authors>
+    <owners>afuzzyllama</owners>
+    <licenseUrl>https://github.com/PixelsForGlory/Extensions/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/PixelsForGlory/Extensions/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extensions used by Pixels for Glory libraries.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Unity3D Gradient</tags>
+  </metadata>
+  <files>
+    <file src="Extensions\bin\Release\Extensions.dll" target="content\Assets\Plugins\PixelsForGlory\Extensions" />
+    <file src="Extensions\bin\Release\Extensions.pdb" target="content\Assets\Plugins\PixelsForGlory\Extensions" />
+  </files>
+</package>
