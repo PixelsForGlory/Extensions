@@ -1,6 +1,8 @@
 # Pixels for Glory Extensions
 Extensions used by Pixels for Glory libraries 
 
+[![Build status](https://ci.appveyor.com/api/projects/status/7lwdnqh8b6nk37uv/branch/master?svg=true)](https://ci.appveyor.com/project/LlamaBot/extensions/branch/master)
+
 ## Building
 Nothing special.  Build from solution.
 
