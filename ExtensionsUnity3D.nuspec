@@ -15,5 +15,6 @@
   <files>
     <file src="Extensions\bin\Release\Extensions.dll" target="content\Assets\Plugins\PixelsForGlory\Extensions" />
     <file src="Extensions\bin\Release\Extensions.pdb" target="content\Assets\Plugins\PixelsForGlory\Extensions" />
+    <file src="NuGetTools\Uninstall.ps1" target="tools\PixelsForGlory\Extensions\" />
   </files>
 </package>
