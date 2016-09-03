@@ -13,7 +13,7 @@
     <tags></tags>
   </metadata>
   <files>
-    <file src="Extensions\bin\Release\Extensions.dll" target="lib\net35" />
-    <file src="Extensions\bin\Release\Extensions.pdb" target="lib\net35" />
+    <file src="Extensions\bin\Release\PixelsForGlory.Extensions.dll" target="lib\net35" />
+    <file src="Extensions\bin\Release\PixelsForGlory.Extensions.pdb" target="lib\net35" />
   </files>
 </package>

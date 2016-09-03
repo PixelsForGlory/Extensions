@@ -13,8 +13,8 @@
     <tags></tags>
   </metadata>
   <files>
-    <file src="Extensions\bin\Release\Extensions.dll" target="content\Assets\Plugins\PixelsForGlory\Extensions" />
-    <file src="Extensions\bin\Release\Extensions.pdb" target="content\Assets\Plugins\PixelsForGlory\Extensions" />
+    <file src="Extensions\bin\Release\PixelsForGlory.Extensions.dll" target="content\Assets\Plugins\" />
+    <file src="Extensions\bin\Release\PixelsForGlory.Extensions.pdb" target="content\Assets\Plugins\" />
     <file src="NuGetTools\Uninstall.ps1" target="tools\PixelsForGlory\Extensions\" />
   </files>
 </package>
