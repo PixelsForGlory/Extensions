@@ -9,7 +9,7 @@ Nothing special.  Build from solution.
 ## Installation
 From a build or downloaded release, copy the `Extensions.dll` to `[PROJECT DIR]\Assets\Plugins`.
 
-If using the Pixels for Glory NuGet repository at http://pixelsforglory.azurewebsites.net/nuget, install the `PixelsForGlory.Extensions` package into your own class library project or install the `PixelsForGlory.Unity3D.Extensions` package into a Unity3D project.
+If using NuGet, install the `PixelsForGlory.Extensions` package into your own class library project or install the `PixelsForGlory.Unity3D.Extensions` package into a Unity3D project.
 
 ## Usage
 - IsAlmostZero
