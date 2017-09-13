@@ -1,15 +1,10 @@
 # Pixels for Glory Extensions
 Extensions used by Pixels for Glory libraries 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7lwdnqh8b6nk37uv/branch/master?svg=true)](https://ci.appveyor.com/project/LlamaBot/extensions/branch/master)
-
-## Building
-Nothing special.  Build from solution.
-
 ## Installation
-From a build or downloaded release, copy the `Extensions.dll` to `[PROJECT DIR]\Assets\Plugins`.
+Add as a submodule to your Unity3D project directory:
 
-If using NuGet, install the `PixelsForGlory.Extensions` package into your own class library project or install the `PixelsForGlory.Unity3D.Extensions` package into a Unity3D project.
+`git submodule add git@github.com:PixelsForGlory/Extensions.git ${ProjectRoot}/Assets/Plugins/PixelsForGlory/`
 
 ## Usage
 - IsAlmostZero
@@ -24,10 +19,6 @@ If using NuGet, install the `PixelsForGlory.Extensions` package into your own cl
         AlmostZero.IsAlmostZero();   // True
         notZero.IsAlmostZero();      // False
         notZero.IsAlmostZero(0.01f); // True
-      
-      
-      
-     
     
 - IsAlmostEqualTo
 	

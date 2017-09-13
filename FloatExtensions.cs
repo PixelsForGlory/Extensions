@@ -1,4 +1,5 @@
-﻿// Copyright 2016 afuzzyllama. All Rights Reserved.
+﻿// Copyright (C) afuzzyllama. All rights reserved
+// Licensed under the MIT license. See LICENSE file in the project root for full license information.
 using System;
 
 namespace PixelsForGlory.Extensions
