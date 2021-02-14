@@ -2,9 +2,7 @@
 Extensions used by Pixels for Glory libraries 
 
 ## Installation
-Add as a submodule to your Unity3D project directory:
-
-`git submodule add git@github.com:PixelsForGlory/Extensions.git ${ProjectRoot}/Assets/Plugins/PixelsForGlory/Extensions`
+- Point to this repository to [install as a package in a Unity project](https://docs.unity3d.com/Manual/upm-git.html)
 
 ## Usage
 - IsAlmostZero
